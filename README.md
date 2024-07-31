@@ -4,7 +4,7 @@
 
 A backend for reCAPTCHA v3 run on CloudFlare Workers
 
--Demo site:https://itman-terminal.github.io/reCAPTCHA_v3_backend_at_CloudFlareWorkers/
+-Demo site:https://itman-terminal.github.io/h
 
 -Serverless operation
 
