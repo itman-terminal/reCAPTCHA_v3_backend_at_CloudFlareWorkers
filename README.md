@@ -18,6 +18,7 @@ A backend for reCAPTCHA v3 run on CloudFlare Workers
 
 <h2>workers.js</h2>
 Open workers.js in a text editor, search for
+
 `Your_Secret_key_here` and replace it with your SecretKey
 
 (Visit [https://www.google.com/recaptcha/admin](https://www.google.com/recaptcha/admin)to view your SiteKey and SecretKey).Finally, you just need to deploy the js file to Cloudflare Workers
